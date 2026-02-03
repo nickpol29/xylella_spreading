@@ -1,0 +1,26 @@
+# Ignore generated files from sensitivity analysis
+sensitivity_analysis_results/
+
+# Ignore simulation outputs
+simulation/*.pdf
+simulation/*.svg
+simulation/*.csv
+simulation/analysis_summary.txt
+simulation/analysis_report.tex
+simulation/sensitivity_figures.tex
+simulation/draft_paper.pdf
+
+# Ignore area selection generated files
+area_selection/*.pdf
+area_selection/*.png
+area_selection/*.xlsx
+area_selection/*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE settings
+.vscode/
