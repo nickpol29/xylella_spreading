@@ -43,7 +43,7 @@ pip install pandas numpy matplotlib networkx
 
 1.  Clone the repository to your local machine:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/nickpol29/xylella_spreading.git
     ```
 2.  Navigate to the project directory:
     ```bash
